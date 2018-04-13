@@ -34,6 +34,6 @@
 
 ----------
 
-配置文件：
+车型配置文件：
 
->default_config
+>default_config.py
