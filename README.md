@@ -36,4 +36,4 @@
 
 配置文件：
 
-default_config
+>default_config
