@@ -14,7 +14,21 @@
 
 ----------
 服务依赖包：
+>requests
 
+>pymysql
+
+>BeautifulSoup
+
+>lxml
+
+>htmllib
+
+>re
+
+>json
+
+>sys
 
 
 ----------
