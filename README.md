@@ -11,6 +11,16 @@
 
 1.抓取品牌，存储信息
 
+https://car.autohome.com.cn/AsLeftMenu/As_LeftListNew.ashx?typeId=1%20&brandId=0%20&fctId=0%20&seriesId=0
+
+2.抓取车系，存储信息
+
+https://car.autohome.com.cn
+
+3.抓取车款，存储信息
+
+https://car.m.autohome.com.cn/ashx/car/GetModelConfigNew.ashx?seriesId={}
+
 
 
 ----------
