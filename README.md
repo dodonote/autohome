@@ -107,3 +107,7 @@ configs = {
     'luggage_volume':{'name': u'行李厢容积(L)', 'field': 'luggage_volume'},
     'engine_model':{'name': u'发动机型号', 'field': 'engine_model'}
 	.....
+
+# 截图
+
+![demo](screenprint.jpg)
